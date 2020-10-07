@@ -55,6 +55,8 @@ class Engine(object):
         #: main application instance
         self.main_app = None
 
+        
+    #Method name changed because this name is reserved from python and was giving error in compiling kivy for mobile. (I'm testing).
     def asynchronous(self, func):
         """ Decorator for asynchronous generators.
 
