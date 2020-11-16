@@ -71,7 +71,7 @@ Installation
 
 Using pip_::
 
-    $ pip install async_gui
+    $ pip install git+https://github.com/HK-Mattew/async_gui/blob/master/README.rst
 
 Or download, unpack and::
 
