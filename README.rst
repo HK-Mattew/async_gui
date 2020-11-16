@@ -71,7 +71,7 @@ Installation
 
 Using pip_::
 
-    $ pip install git+https://github.com/HK-Mattew/async_gui/blob/master/README.rst
+    $ pip install git+https://github.com/HK-Mattew/async_gui
 
 Or download, unpack and::
 
